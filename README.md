@@ -75,13 +75,17 @@ Developed by: RegisterNumber: 24001573
 */
 
 **RTL LOGIC UP COUNTER**
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/3be3168c-2e4c-4b9c-932b-97ef8656ea5a)
 
 **TIMING DIAGRAM FOR IP COUNTER**
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/26ff4dcc-82c7-4ddf-a5c0-3d497cad4524)
 
 **TRUTH TABLE**
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/7c6d24d4-d5a2-44b9-a599-4cfe3adc181b)
+
 
 **RESULTS**
 Hence a 4 bit synchronous up counter is implemented correctly.
